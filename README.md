@@ -1,9 +1,5 @@
-<a href="https://github.com/JaviML-CFD">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/dark_mode.svg">
-    <img alt="Javier Martínez Lorenzo – CFD & Aerospace Engineer" src="https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/light_mode.svg" width="100%">
-  </picture>
-</a>
+# Javier Martínez Lorenzo
+### 🚀 CFD Methodology & Aerospace Engineer
 
 ## 🔬 Profile & Core Domain
 
