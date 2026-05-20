@@ -38,7 +38,7 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 **2026** &nbsp;|&nbsp; 🏁 **CFD Methodology Engineer** — Dynamis PRC (PoliMi Formula SAE)
 **2025** &nbsp;|&nbsp; 🧪 **CFD Simulation Intern** — BioMixing S.L.
 &nbsp;|&nbsp; 🛰️ **CVA Scholar** — Space Transportation Systems (Ariane Cities & MT-Aerospace)
-&nbsp;|&nbsp; 🎤 **TEDx Speaker** — *From Asphalt to Air: VTOL Configurations*
+&nbsp;|&nbsp; 🎤 **TEDxYouth Speaker** — *From Asphalt to Air: VTOL and the New Era of Urban Mobility (in spanish)*
 **2024** &nbsp;|&nbsp; 🚀 **1st Place Overall** — NASA Space Apps Challenge (Seville, Spain)
 
 ---
