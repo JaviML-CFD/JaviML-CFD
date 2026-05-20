@@ -40,6 +40,7 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 **2025** &nbsp;|&nbsp; 🛰️ **CVA Scholar** — Space Transportation Systems (Ariane Cities & MT-Aerospace)
 **2025** &nbsp;|&nbsp; 🎤 **TEDx Speaker** — *From Asphalt to Air: VTOL Configurations*
 **2024** &nbsp;|&nbsp; 🚀 **1st Place Overall** — NASA Space Apps Challenge (Seville, Spain)
+
 ---
 
 ## 📬 Connect With Me
@@ -48,4 +49,4 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 
 <br>
 
-<sub>Profile metrics compiled via GitHub Actions &middot; Last updated: <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/last_updated.json&style=flat-square&color=1e3a5c&labelColor=0a0e14&label=" alt="last updated" width="50%"></sub>
+<sup>Profile metrics compiled via GitHub Actions &middot; Last updated: <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/last_updated.json&style=flat-square&color=1e3a5c&labelColor=0a0e14&label=" alt="last updated" valign="middle"></sup>
