@@ -1,0 +1,28 @@
+name: Update Profile Timestamp
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate JSON timestamp
+        run: |
+          CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+          echo "{\"schemaVersion\": 1, \"label\": \"\", \"message\": \"$CURRENT_DATE\", \"color\": \"1e3a5c\"}" > last_updated.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_updated.json
+          git diff-index --quiet HEAD || git commit -m "chore: automated profile timestamp update"
+          git push
