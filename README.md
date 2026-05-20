@@ -3,9 +3,9 @@
 
 ## 🔬 Profile & Core Domain
 
-M.Eng Aerospace Engineering student in the Double Degree Program between the **University of Seville** and **Politecnico di Milano** (GPA 9.16/10, Honours in Advanced Fluid Dynamics). My work bridges the gap between high-fidelity CFD methodology, experimental fluid mechanics, and scientific software engineering.
+M.Eng Aerospace Engineering student in the Double Degree Program between the **University of Seville** and **Politecnico di Milano**. My work bridges the gap between CFD methodology, experimental fluid mechanics, and scientific software engineering.
 
-As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop, validate, and scale simulation workflows deployed on high-performance computing (HPC) clusters. My focus centers on rigorous Verification & Validation (V&V), transient overset mesh implementations for dynamic kinematics, and automated OpenFOAM pipelines.
+As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop, validate, and scale simulation workflows deployed on our design simulations. My focus centers on verification & validation, transient overset mesh implementations for dynamic kinematics, and automated OpenFOAM pipelines.
 
 ---
 
@@ -13,14 +13,14 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 
 | Category | Technologies & Ecosystems |
 | :--- | :--- |
-| **CFD Solvers** | `OpenFOAM` &nbsp;&middot;&nbsp; `ANSYS Fluent (UDF C-programming)` &nbsp;&middot;&nbsp; `STAR-CCM+` &nbsp;&middot;&nbsp; `SU2` |
-| **Pre/Post-Processing** | `ParaView (pvpython API)` &nbsp;&middot;&nbsp; `Gmsh` &nbsp;&middot;&nbsp; `OpenPIV` &nbsp;&middot;&nbsp; `CATIA` |
-| **Scientific Computing** | `Python (NumPy, SciPy, Matplotlib, Pandas)` &nbsp;&middot;&nbsp; `C++` &nbsp;&middot;&nbsp; `MATLAB` |
-| **HPC & Infrastructure** | `Linux/Bash` &nbsp;&middot;&nbsp; `SLURM Workload Manager` &nbsp;&middot;&nbsp; `Git/GitHub` &nbsp;&middot;&nbsp; `LaTeX` |
+| **CFD Solvers** | `OpenFOAM` &nbsp;&middot;&nbsp; `ANSYS Fluent (UDF experience)` &nbsp;&middot;&nbsp; `STAR-CCM+` &nbsp;&middot;&nbsp; `SU2` |
+| **Pre/Post-Processing** | `ParaView` &nbsp;&middot;&nbsp; `Gmsh` &nbsp;&middot;&nbsp; `OpenPIV` &nbsp;&middot;&nbsp; `CATIA` |
+| **Scientific Computing** | `Python (NumPy, SciPy, Matplotlib, Pandas)` &nbsp;&middot;&nbsp; `C++ (Limited)` &nbsp;&middot;&nbsp; `MATLAB` |
+| **Infrastructure** | `Linux/Bash` &nbsp;&middot;&nbsp;  `Git/GitHub` &nbsp;&middot;&nbsp; `LaTeX` |
 | **Data Science & ML** | `Scikit-learn` &nbsp;&middot;&nbsp; `Keras` &nbsp;&middot;&nbsp; `AutoGluon` |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/github-metrics.svg" alt="Javier's Code Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/github-metrics.svg" alt="Javier's Code Metrics" width="50%">
 </p>
 
 ---
@@ -35,11 +35,11 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 
 ## 🏆 Achievements & Timeline
 
-`2026` 🏁 **CFD Methodology Engineer** @ Dynamis PRC FSAE  
-`2025` 🛰️ **CVA Scholar** — Space Transportation Systems (MT-Aerospace)  
-`2024` 🚀 **1st Place Overall** — NASA Space Apps Challenge (Spain)  
-`2024` 🎤 **TEDx Speaker** — *From Asphalt to Air: VTOL Configurations* `2018` 🚣 **High-Performance Athlete** — Competed at National/Regional Rowing levels  
-
+**2026** &nbsp;|&nbsp; 🏁 **CFD Methodology Engineer** — Dynamis PRC (PoliMi Formula SAE)
+**2025** &nbsp;|&nbsp; 🧪 **CFD Simulation Intern** — BioMixing S.L.
+**2025** &nbsp;|&nbsp; 🛰️ **CVA Scholar** — Space Transportation Systems (Ariane Cities & MT-Aerospace)
+**2025** &nbsp;|&nbsp; 🎤 **TEDx Speaker** — *From Asphalt to Air: VTOL Configurations*
+**2024** &nbsp;|&nbsp; 🚀 **1st Place Overall** — NASA Space Apps Challenge (Seville, Spain)
 ---
 
 ## 📬 Connect With Me
@@ -48,4 +48,4 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 
 <br>
 
-<sub>Profile metrics compiled via GitHub Actions &middot; Last updated: <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/last_updated.json&style=flat-square&color=1e3a5c&labelColor=0a0e14&label=" alt="last updated"></sub>
+<sub>Profile metrics compiled via GitHub Actions &middot; Last updated: <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JaviML-CFD/JaviML-CFD/main/last_updated.json&style=flat-square&color=1e3a5c&labelColor=0a0e14&label=" alt="last updated" width="50%"></sub>
