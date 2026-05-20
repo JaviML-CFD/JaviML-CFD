@@ -6,10 +6,13 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # 👈 This explicitly creates the manual 'Run workflow' button!
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 👈 This gives the bot permission to write the JSON file!
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
