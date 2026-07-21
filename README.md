@@ -43,4 +43,6 @@ Based on an extensive 484-run experimental wind tunnel campaign. Presented at th
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-martinez-lorenzo/) &nbsp;&middot;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javi.martinez.lorenzo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-martinez-lorenzo/)
+
+📧 javi.martinez.lorenzo@gmail.com
