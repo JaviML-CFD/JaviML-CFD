@@ -1,9 +1,9 @@
 # Javier Martínez Lorenzo
-### CFD Methodology & Aerospace Engineer
+### Aerospace Engineer | CFD Methodology
 
 ## Profile & Core Domain
 
-M.Eng Aerospace Engineering student in the Double Degree Program between the **University of Seville** and **Politecnico di Milano**. My work bridges the gap between CFD methodology, experimental fluid mechanics, and scientific software engineering.
+M.Eng Aerospace Engineering student in the Double Degree Program between the **University of Seville** and **Politecnico di Milano**. I develop, validate, and scale simulation workflows deployed on our design simulations.
 
 As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop, validate, and scale simulation workflows deployed on our design simulations. My focus centers on verification & validation, transient overset mesh implementations for dynamic kinematics, and automated OpenFOAM pipelines.
 
@@ -15,7 +15,7 @@ As a **CFD Methodology Engineer at Dynamis PRC (PoliMi Formula SAE)**, I develop
 | :--- | :--- |
 | **CFD Solvers** | `OpenFOAM` &nbsp;&middot;&nbsp; `ANSYS Fluent (UDF experience)` &nbsp;&middot;&nbsp; `STAR-CCM+` &nbsp;&middot;&nbsp; `SU2` |
 | **Pre/Post-Processing** | `ParaView` &nbsp;&middot;&nbsp; `Gmsh` &nbsp;&middot;&nbsp; `OpenPIV` &nbsp;&middot;&nbsp; `CATIA` |
-| **Scientific Computing** | `Python (NumPy, SciPy, Matplotlib, Pandas)` &nbsp;&middot;&nbsp; `Julia` &nbsp;&middot;&nbsp; `C++ (Limited)` &nbsp;&middot;&nbsp; `MATLAB` |
+| **Scientific Computing** | `Python (NumPy, SciPy, Matplotlib, Pandas)` &nbsp;&middot;&nbsp; `Julia` &nbsp;&middot;&nbsp; `MATLAB` |
 | **Infrastructure** | `Linux/Bash` &nbsp;&middot;&nbsp; `Git/GitHub` &nbsp;&middot;&nbsp; `LaTeX` |
 | **Data Science & ML** | `Scikit-learn` &nbsp;&middot;&nbsp; `Keras` &nbsp;&middot;&nbsp; `AutoGluon` |
 
@@ -31,13 +31,14 @@ Based on an extensive 484-run experimental wind tunnel campaign. Presented at th
 
 ---
 
-## Achievements & Timeline
+## Highlights
 
-**2026** &nbsp;|&nbsp; **CFD Methodology Engineer** — Dynamis PRC (PoliMi Formula SAE)
-**2025** &nbsp;|&nbsp; **CFD Simulation Intern** — BioMixing S.L.
-&nbsp;|&nbsp; **CVA Scholar** — Space Transportation Systems (Ariane Cities & MT-Aerospace)
-&nbsp;|&nbsp; **TEDxYouth Speaker** — *From Asphalt to Air: VTOL and the New Era of Urban Mobility* (in Spanish)
-**2024** &nbsp;|&nbsp; **1st Place Overall** — NASA Space Apps Challenge (Seville, Spain)
+• CFD Methodology Engineer — Dynamis PRC
+• CFD Simulation Intern — BioMixing
+• Co-author — CEAS Journal submission
+• ERF 2025 Presenter
+• TEDxYouth Speaker — "From Asphalt to Air: VTOL and the New Era of Urban Mobility"
+• NASA Space Apps Challenge 2024 Winner
 
 ---
 
